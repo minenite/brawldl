@@ -1,0 +1,40 @@
+gunName=&e.44 Magnum (III)
+-------
+gunType=256
+ammoType=368
+ammoAmtNeeded=1
+bulletDelayTime=12
+reloadType=NORMAL
+-------
+roundsPerBurst=1
+bulletsPerClick=1
+gunDamage=6
+armorPenetration=2
+maxDistance=100
+bulletSpeed=5
+accuracy=0.04
+accuracy_aimed=0.015
+recoil=0
+knockback=0
+-------
+canAim=true
+explodeRadius=0
+explosionDamage=0
+fireRadius=0
+canHeadshot=true
+canClickLeft=true
+canClickRight=true
+--------
+outOfAmmoMessage=&cOut of Ammo! &fYou need Pistol Ammo!
+--------
+bulletType=SNOWBALL
+gunSound=zombie metal,ghast fireball
+needsPermission=false
+hasSmokeTrail=false
+--------
+hasClip=true
+maxClipSize=6
+reloadGunOnDrop=true
+reloadTime=30
+--------
+localGunSound=false
