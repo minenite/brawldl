@@ -1,0 +1,40 @@
+gunName=&eFive Seven (I)
+-------
+gunType=269
+ammoType=368
+ammoAmtNeeded=1
+bulletDelayTime=16
+reloadType=NORMAL
+-------
+roundsPerBurst=1
+bulletsPerClick=1
+gunDamage=4
+armorPenetration=2
+maxDistance=100
+bulletSpeed=5
+accuracy=0.05
+accuracy_aimed=0.02
+recoil=0
+knockback=0
+-------
+canAim=true
+explodeRadius=0
+explosionDamage=0
+fireRadius=0
+canHeadshot=true
+canClickLeft=true
+canClickRight=true
+--------
+outOfAmmoMessage=&cOut of Ammo! &6You need Pistol Ammo!
+--------
+bulletType=SNOWBALL
+gunSound=zombie metal,ghast fireball
+needsPermission=false
+hasSmokeTrail=false
+--------
+hasClip=true
+maxClipSize=10
+reloadGunOnDrop=true
+reloadTime=60
+--------
+localGunSound=false
