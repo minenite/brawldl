@@ -1,0 +1,40 @@
+gunName=&eDesert Eagle (IV)
+-------
+gunType=277
+ammoType=368
+ammoAmtNeeded=1
+bulletDelayTime=10
+reloadType=NORMAL
+-------
+roundsPerBurst=1
+bulletsPerClick=1
+gunDamage=8
+armorPenetration=2
+maxDistance=100
+bulletSpeed=5
+accuracy=0.03
+accuracy_aimed=0.01
+recoil=0.1
+knockback=0.1
+-------
+canAim=true
+explodeRadius=0
+explosionDamage=0
+fireRadius=0
+canHeadshot=true
+canClickLeft=true
+canClickRight=true
+--------
+outOfAmmoMessage=&cOut of Ammo! &fYou need Pistol Ammo!
+--------
+bulletType=SNOWBALL
+gunSound=zombie metal,ghast fireball
+needsPermission=false
+hasSmokeTrail=false
+--------
+hasClip=true
+maxClipSize=7
+reloadGunOnDrop=true
+reloadTime=60
+--------
+localGunSound=false
