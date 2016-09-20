@@ -1,0 +1,5 @@
+These are the EXACT gun statistics used by Brawl before mid-2015 (pre-fuckup by nerfing time.)
+
+If you don't know what these mean, download a gun plugin (like PVPGunPlus or SwornGuns) and put all of these files into the /guns/ folder.
+
+Leaked once again, by Ekali.
